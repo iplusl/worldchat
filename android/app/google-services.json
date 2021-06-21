@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "709503702777",
+    "firebase_url": "https://worldchat-dc40f.firebaseio.com",
+    "project_id": "worldchat-dc40f",
+    "storage_bucket": "worldchat-dc40f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709503702777:android:46345be6eb7ce128b1f428",
+        "android_client_info": {
+          "package_name": "br.com.leal.worldchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709503702777-2j5sdlmh3gcb5r4j8bti6q03seq5murp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTZJUXhuqdRZfNxXzKWzKUDZCOmRul334"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709503702777-2j5sdlmh3gcb5r4j8bti6q03seq5murp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

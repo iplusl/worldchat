@@ -1,0 +1,49 @@
+{
+  "login_idioma": "Idioma",
+  "login_senha_vazia": "Preencha a senha",
+  "login_email_invalido": "Email inválido",
+  "login_email_vazio": "Preencha o email",
+  "login_erro_autenticacao": "Erro ao autenticar usuário, verifique os campos e tente novamente",
+  "login_email": "Email",
+  "login_senha": "Senha",
+  "login_entrar": "Entrar",
+  "login_cadastro": "Não tem conta? Cadastre-se!",
+
+  "contatos_carregando": "Carregando contatos",
+  "contatos_erro": "Erro ao carregar contatos!",
+  "contatos_nenhum": "Você ainda não tem nenhum contato!",
+
+  "conversas_carregando": "Carregando conversas",
+  "conversas_erro": "Erro ao carregar conversas!",
+  "conversas_nenhuma": "Você ainda não tem nenhuma conversa!",
+  "conversas_imagem": "Imagem",
+
+  "cadastro_senha_tamanho": "A senha precisa ter no mínimo 8 caracteres",
+  "cadastro_senha_vazia": "Preencha a senha",
+  "cadastro_email_invalido": "Email inválido",
+  "cadastro_email_vazio": "Preencha o email",
+  "cadastro_nome_vazio": "Preencha o nome",
+  "cadastro_erro": "Erro ao cadastrar usuário, verifique os campos e tente novamente",
+  "cadastro_cadastro": "Cadastro",
+  "cadastro_nome": "Nome",
+  "cadastro_email": "Email",
+  "cadastro_senha": "Senha",
+  "cadastro_cadastrar": "Cadastrar",
+  "cadastro_idioma": "Selecione um idioma",
+
+  "config_config": "Configurações",
+  "config_camera": "Câmera",
+  "config_galeria": "Galeria",
+  "config_nome": "Nome",
+  "config_salvar": "Salvar",
+
+  "home_pop_config": "Configurações",
+  "home_pop_sair": "Sair",
+  "home_conversas": "CONVERSAS",
+  "home_contatos": "CONTATOS",
+
+  "mensagens_digite": "Digite uma menssagem...",
+  "mensagens_carregando": "Carregando mensagens",
+  "mensagens_erro": "Erro ao carregar as mensagens",
+  "mensagens_traducao": "Tradução"
+}

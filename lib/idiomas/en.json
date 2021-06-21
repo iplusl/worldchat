@@ -1,0 +1,49 @@
+{
+  "login_idioma": "Language",
+  "login_senha_vazia": "Fill in the password",
+  "login_email_invalido": "Invalid email",
+  "login_email_vazio": "Fill in the email",
+  "login_erro_autenticacao": "Error authenticating user, check the fields and try again",
+  "login_email": "Email",
+  "login_senha": "Password",
+  "login_entrar": "Log In",
+  "login_cadastro": "Don't have an account? Register!",
+
+  "contatos_carregando": "Loading contacts",
+  "contatos_erro": "Error loading contacts!",
+  "contatos_nenhum": "You don't have any contacts yet!",
+
+  "conversas_carregando": "Loading chats",
+  "conversas_erro": "Error loading chats!",
+  "conversas_nenhuma": "You don't have any chats yet!",
+  "conversas_imagem": "Image",
+
+  "cadastro_senha_tamanho": "Password must be at least 8 characters",
+  "cadastro_senha_vazia": "Fill in the password",
+  "cadastro_email_invalido": "Invalid email",
+  "cadastro_email_vazio": "Fill in the email",
+  "cadastro_nome_vazio": "Fill in the name",
+  "cadastro_erro": "Error registering user, check the fields and try again",
+  "cadastro_cadastro": "Register",
+  "cadastro_nome": "Name",
+  "cadastro_email": "Email",
+  "cadastro_senha": "Password",
+  "cadastro_cadastrar": "Register",
+  "cadastro_idioma": "Select a language",
+
+  "config_config": "Settings",
+  "config_camera": "Camera",
+  "config_galeria": "Gallery",
+  "config_nome": "Name",
+  "config_salvar": "Save",
+
+  "home_pop_config": "Settings",
+  "home_pop_sair": "Log off",
+  "home_conversas": "CHATS",
+  "home_contatos": "CONTACTS",
+
+  "mensagens_digite": "Type a message...",
+  "mensagens_carregando": "Loading messages",
+  "mensagens_erro": "Error loading messages",
+  "mensagens_traducao": "Translation"
+}
